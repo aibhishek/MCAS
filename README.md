@@ -1,4 +1,4 @@
-# MCAS
+# MCAS: Measuring Bias in Multimodal Models: Multimodal Composite Association Score
 Code for the paper: Measuring Bias in Multimodal Models: Multimodal Composite Association Score
 Generative multimodal models based on diffusion models
 have seen tremendous growth and advances in recent years and are being
