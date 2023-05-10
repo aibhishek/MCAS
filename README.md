@@ -19,5 +19,9 @@ tential bias for models with different modalities and a range of potential
 biases.
 
 Paper accepted at BIAS @ European Conference on Information Retrieval - 2023, Dublin, Ireland.
+
+
 Arxiv preprint: https://arxiv.org/abs/2304.13855
+
+
 Proceedings will be published soo.
