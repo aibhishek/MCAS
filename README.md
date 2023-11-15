@@ -24,4 +24,4 @@ Paper accepted at BIAS @ European Conference on Information Retrieval - 2023, Du
 Arxiv preprint: https://arxiv.org/abs/2304.13855
 
 
-Proceedings will be published soo.
+Published version: https://link.springer.com/chapter/10.1007/978-3-031-37249-0_2
